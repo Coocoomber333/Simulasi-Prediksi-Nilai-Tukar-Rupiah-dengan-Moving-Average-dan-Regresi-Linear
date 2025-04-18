@@ -1,0 +1,1 @@
+# Simulasi-Prediksi-Nilai-Tukar-Rupiah-dengan-Moving-Average-dan-Regresi-Linear
