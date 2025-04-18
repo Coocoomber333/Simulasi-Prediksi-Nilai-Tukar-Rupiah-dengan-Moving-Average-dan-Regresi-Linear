@@ -18,6 +18,3 @@ Fitur Utama:
 - Visualisasi Candlestick untuk memantau pergerakan harga mata uang asing terhadap IDR.
 - Evaluasi Akurasi Prediksi menggunakan metrik MAE, MSE, RMSE, dan R².
 - Penyimpanan Hasil Simulasi dalam format CSV untuk dokumentasi lebih lanjut.
-
-Tugas ini sangat berguna bagi siapa saja yang tertarik untuk memahami bagaimana mengimplementasikan metode statistik dan algoritma dalam simulasi keuangan pribadi berbasis nilai tukar mata uang asing.
-
